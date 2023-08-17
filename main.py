@@ -8,7 +8,7 @@ is_busy = False
 
 @bot.on(events.NewMessage(pattern=("/start")))
 async def start(event):
-    if event.text == '/start' or event.text == '/start@Kujo_Jotaro_Robot':
+    if event.text == '/start':
         await bot.send_message(event.chat_id, "Im Running")
 
 
