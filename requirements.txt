@@ -1,4 +1,4 @@
-https://github.com/New-dev0/Telethon/archive/master.zip
-https://github.com/MiyukiKun/FastTelethonhelper/archive/main.zip
+telethon
+FastTelethonhelper
 telethon-tgcrypto
 python-dotenv
